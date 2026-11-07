@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://emirbrownmurillo.com/sitemap.xml
